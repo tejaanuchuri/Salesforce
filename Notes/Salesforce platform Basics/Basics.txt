@@ -1,0 +1,21 @@
+#Get to Know Our Terms
+
+App     :  in Salesforce is a set of objects, fields,
+           and other functionality that supports a business process.
+
+Objects :  are tables in the Salesforce database that store a particular kind of information.
+           There are standard objects like Accounts and Contacts and 
+           custom objects like the Property object you see in the graphic.
+
+Records :  are rows in object database tables. Records are the actual data associated with an object.
+
+Fields  :  are columns in object database tables. Both standard and custom objects have fields. 
+
+Package : It's has 18-characters 
+          ex: 04tB0000000OE9wIAG
+
+Declarative : Developing without code is known as declarative development.
+              With declarative development, you use forms and drag-and-drop tools to perform powerful customization tasks.
+
+Programmatic: The platform also offers programmatic development, which uses things like Lightning components. 
+
