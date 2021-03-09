@@ -19,3 +19,7 @@ Declarative : Developing without code is known as declarative development.
 
 Programmatic: The platform also offers programmatic development, which uses things like Lightning components. 
 
+Chatter feed : Every time you create a custom object, you automatically get something called Chatter feed tracking.
+               Chatter feed tracking provides a way for multiple people to comment and collaborate on a particular record.
+               The discussions and decisions are stored on the record so everyone can stay up to date on important decisions.
+               
