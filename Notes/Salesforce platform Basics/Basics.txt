@@ -3,31 +3,52 @@
 App     :  in Salesforce is a set of objects, fields,
            and other functionality that supports a business process.
 
-Objects :  are tables in the Salesforce database that store a particular kind of information.
-           There are standard objects like Accounts and Contacts and 
-           custom objects like the Property object you see in the graphic.
+Objects                     :  are tables in the Salesforce database that store a particular kind of information.
+                               There are standard objects like Accounts and Contacts and 
+                               custom objects like the Property object you see in the graphic.
 
-Records :  are rows in object database tables. Records are the actual data associated with an object.
+Records                     :  are rows in object database tables. Records are the actual data associated with an object.
 
-Fields  :  are columns in object database tables. Both standard and custom objects have fields. 
+Fields                      :  are columns in object database tables. Both standard and custom objects have fields. 
 
-Package : It's has 18-characters 
-          ex: 04tB0000000OE9wIAG
+Package                     :  It's has 18-characters 
+                               ex: 04tB0000000OE9wIAG
 
-Declarative : Developing without code is known as declarative development.
-              With declarative development, you use forms and drag-and-drop tools to perform powerful customization tasks.
+Declarative                 :  Developing without code is known as declarative development.
+                               With declarative development, you use forms and drag-and-drop tools to perform powerful customization tasks.
 
-Programmatic: The platform also offers programmatic development, which uses things like Lightning components. 
+Programmatic                :  The platform also offers programmatic development, which uses things like Lightning components. 
 
-Chatter feed : Every time you create a custom object, you automatically get something called Chatter feed tracking.
-               Chatter feed tracking provides a way for multiple people to comment and collaborate on a particular record.
-               The discussions and decisions are stored on the record so everyone can stay up to date on important decisions.
+Chatter feed                :  Every time you create a custom object, you automatically get something called Chatter feed tracking.
+                               Chatter feed tracking provides a way for multiple people to comment and collaborate on a particular record.
+                               The discussions and decisions are stored on the record so everyone can stay up to date on important decisions.
+       
+                               By creating a single custom object, you can totally change how your organization collaborates. High impact, low effort. As you start building with the platform, keep your eye out for processes with:
+ 
+                                 1. Heavy email collaboration
+                                 2. Reliance on spreadsheets
+                                 3. Shared local documents
+                                 4. Time-intensive, repetitive manual steps
+                                 5. Impact on only a few departments (you want to minimize the number of stakeholders while you’re still learning)
+                                 6. Processes with these traits are great candidates for early projects on the Salesforce platform.            
 
-                By creating a single custom object, you can totally change how your organization collaborates. High impact, low effort. As you start building with the platform, keep your eye out for processes with:
+Salesforce Architecture     :  Salesforce is a cloud company. Everything we offer resides in the trusted, multitenant cloud.
+                               The Salesforce platform is the foundation of our services. 
+                               It’s powered by metadata and made up of different parts, like data services, artificial intelligence, and robust APIs for development.
+                               All our apps sit on top of the platform. Our prebuilt offerings like Sales Cloud and Marketing Cloud, along with apps you build using the platform, have consistent, powerful functionality. 
 
-                1. Heavy email collaboration
-                2. Reliance on spreadsheets
-                3. Shared local documents
-                4. Time-intensive, repetitive manual steps
-                5. Impact on only a few departments (you want to minimize the number of stakeholders while you’re still learning)
-                6. Processes with these traits are great candidates for early projects on the Salesforce platform.              
+
+ Multitenancy               :  Multitenancy is a great word for making you sound smart at dinner parties, but really all it means is that you’re sharing resources.
+                               Salesforce provides a core set of services to all our customers in the multitenant cloud.
+                               No matter the size of your business, you get access to the same computing power, data storage, and core features.
+                               you’re getting the latest and greatest features with automatic, seamless upgrades three times a year.
+                               Since Salesforce is a cloud service, you never have to install new features or worry about your hardware. All this is possible because of multitenancy.
+
+ Metadata                   :  metadata is data about data.
+
+                               Now, imagine you stripped away all that specific data. What are you left with?
+                               You are left with the Property object along with all its fields, like address, price, and number of bedrooms.
+                               You can also have page layouts, security settings, and any other customizations you’ve made. 
+
+                               All of these standard and custom configurations, functionality, and code in your org are metadata.
+                               Part of the reason you can move so fast on the platform is that Salesforce knows how to store and serve you that metadata immediately after you create it.
