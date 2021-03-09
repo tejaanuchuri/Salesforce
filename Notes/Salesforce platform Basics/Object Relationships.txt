@@ -1,0 +1,15 @@
+
+Object Relationships    :   Object relationships are a special field type that connects two objects together.
+
+                         --> Exampale :     Let’s think about a standard object like Account.
+                                            If a sales rep opens an account, they’ve probably been talking to a few people at that account’s company. 
+                                            They’ve probably made contacts like executives or IT managers and stored those contacts’ information in Salesforce.
+
+                                            It makes sense, then, that there should be a relationship between the Account object and the Contact object. And there is!
+
+                                            When you look at an account record in Salesforce, you can see that there’s a section for contacts on the Related tab. 
+                                            You can also see that there’s a button that lets you quickly add a contact to an account.
+
+                        
+
+
