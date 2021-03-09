@@ -71,3 +71,6 @@ Settings                    :  Finally, Settings is where you manage your compan
 
 App Exchange                :  You’re probably comfortable with the idea of app stores.\
                                Whether you’re downloading apps on your phone, tablet, computer, or other device, you have to download and install apps to make the most of your technology.
+
+Where’d My App Go?          :  Apps are installed using something called a package. 
+
