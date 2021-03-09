@@ -68,3 +68,6 @@ Platform Tools              :  You do most of your customization in Platform Too
 
 Settings                    :  Finally, Settings is where you manage your company information and org security.
                                You can do things like add business hours, change your locale, and view your org’s history.
+
+App Exchange                :  You’re probably comfortable with the idea of app stores.\
+                               Whether you’re downloading apps on your phone, tablet, computer, or other device, you have to download and install apps to make the most of your technology.
