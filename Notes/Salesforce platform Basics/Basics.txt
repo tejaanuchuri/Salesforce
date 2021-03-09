@@ -61,3 +61,4 @@ API                         :  APIs allow different pieces of software to connec
                                Earlier, we talked about the database. When you add a custom object or field, the platform automatically creates an API name that serves as an access point between your org and the database.
                                Salesforce uses that API name to retrieve the metadata and data you’re looking for.
 
+Administration              :  The Administration category is where you manage your users and data. You can do things like add users, change permissions, import and export data, and create email templates.
