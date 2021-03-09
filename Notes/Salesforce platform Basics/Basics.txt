@@ -22,4 +22,12 @@ Programmatic: The platform also offers programmatic development, which uses thin
 Chatter feed : Every time you create a custom object, you automatically get something called Chatter feed tracking.
                Chatter feed tracking provides a way for multiple people to comment and collaborate on a particular record.
                The discussions and decisions are stored on the record so everyone can stay up to date on important decisions.
-               
+
+                By creating a single custom object, you can totally change how your organization collaborates. High impact, low effort. As you start building with the platform, keep your eye out for processes with:
+
+                1. Heavy email collaboration
+                2. Reliance on spreadsheets
+                3. Shared local documents
+                4. Time-intensive, repetitive manual steps
+                5. Impact on only a few departments (you want to minimize the number of stakeholders while you’re still learning)
+                6. Processes with these traits are great candidates for early projects on the Salesforce platform.              
