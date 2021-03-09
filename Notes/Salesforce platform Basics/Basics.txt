@@ -9,7 +9,7 @@ Objects                     :  are tables in the Salesforce database that store 
 
 Standard objects            :  are objects that are included with Salesforce. Common business objects like Account, Contact, Lead, and Opportunity are all standard objects.
 
-Custom objects
+Custom objects              :  Custom objects are objects that you create to store information that’s specific to your company or industry.
 
 Records                     :  are rows in object database tables. Records are the actual data associated with an object.
 
