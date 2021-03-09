@@ -9,22 +9,24 @@ Objects                     :  are tables in the Salesforce database that store 
 
 Standard objects            :  are objects that are included with Salesforce. Common business objects like Account, Contact, Lead, and Opportunity are all standard objects.
 
+
 Custom objects              :  Custom objects are objects that you create to store information that’s specific to your company or industry.
 
-    ---> Get to Know Fields
-         Every standard and custom object has fields attached to it. Let’s get familiar with the different types of fields.
+                             ---> Get to Know Fields
+                                  Every standard and custom object has fields attached to it. Let’s get familiar with the different types of fields.
     
-         Identity	:   A 15-character, case-sensitive field that’s automatically generated for every record. You can find a record’s ID in its URL.  
-                        An account ID looks like 0015000000Gv7qJ.
+                                  Identity	:   A 15-character, case-sensitive field that’s automatically generated for every record. You can find a record’s ID in its URL.  
+                                                An account ID looks like 0015000000Gv7qJ.
 
-         System     :   Read-only fields that provide information about a record from the system, like when the record was created or when it was last changed.
-                        CreatedDate, LastModifiedById, and LastModifiedDate.
+                                  System    :   Read-only fields that provide information about a record from the system, like when the record was created or when it was last changed.
+                                                CreatedDate, LastModifiedById, and LastModifiedDate.
 
-         Name       :   All records need names so you can distinguish between them. You can use text names or auto-numbered names that automatically increment every time you create a record.
-                        A contact’s name can be Julie Bean. A support case’s name can be CA-1024.
+                                  Name      :   All records need names so you can distinguish between them. You can use text names or auto-numbered names that automatically increment every time you create a record.
+                                                A contact’s name can be Julie Bean. A support case’s name can be CA-1024.
 
-         Custom     :   Fields you create on standard or custom objects are called custom fields.
-                        You can create a custom field on the Contact object to store your contacts’ birthdays.
+                                  Custom    :   Fields you create on standard or custom objects are called custom fields.
+                                                You can create a custom field on the Contact object to store your contacts’ birthdays.
+
 
 Records                     :  are rows in object database tables. Records are the actual data associated with an object.
 
