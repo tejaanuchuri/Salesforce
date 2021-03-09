@@ -62,3 +62,8 @@ API                         :  APIs allow different pieces of software to connec
                                Salesforce uses that API name to retrieve the metadata and data you’re looking for.
 
 Administration              :  The Administration category is where you manage your users and data. You can do things like add users, change permissions, import and export data, and create email templates.
+
+Platform Tools              :  You do most of your customization in Platform Tools. You can view and manage your data model, create apps, modify the user interface, and deploy new features to your users.
+                               If you decide to try your hand at programmatic development, Platform Tools is where you manage your code as well.   
+
+            
